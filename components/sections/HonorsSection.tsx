@@ -15,8 +15,8 @@ const awards = [
     description: "The Young Innovators Programme is one of Kerala's most competitive innovation challenges. Being selected among 31 from over 1,400 ideas is a validation of the depth and originality of the Agni Robotics concept.",
     highlight: "31 selected out of 1,400+ ideas",
     color: 'amber',
-    icon: '',
-    photos: ['https://res.cloudinary.com/dqrpav05c/image/upload/v1775994961/nrtaevwy3g2rtl4xnpbh.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994367/rgxbbxusuh3rwsxlcju6.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775995344/zfapvgwcydyowpkm2vsv.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994711/cbx64riep7auoah3k0ap.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994711/transozjuo4iv7nuqarp.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994712/g7fryastfrk3ypqchenj.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994722/bzqpenpbsr65h0sevldw.svg'],
+    Icon: Trophy,
+    photos: ['https://res.cloudinary.com/dqrpav05c/image/upload/v1776014662/s7ujvzgqlbmzf6zdomna.svg','https://res.cloudinary.com/dqrpav05c/image/upload/v1775994961/nrtaevwy3g2rtl4xnpbh.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994367/rgxbbxusuh3rwsxlcju6.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775995344/zfapvgwcydyowpkm2vsv.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994711/cbx64riep7auoah3k0ap.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994711/transozjuo4iv7nuqarp.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775994712/g7fryastfrk3ypqchenj.svg'],
   },
   {
     title: "Pre-Incubated · Kerala Startup Mission",
@@ -25,7 +25,7 @@ const awards = [
     description: "Officially recognised and pre-incubated by the Kerala Startup Mission — a milestone that opened access to mentorship, funding pathways, and the Kerala startup ecosystem.",
     highlight: "Certificate of Recognition",
     color: 'violet',
-    icon: '',
+    Icon: '',
     photos: ['https://res.cloudinary.com/dqrpav05c/image/upload/v1775996951/rrail6grcuv6qte5kqja.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775996951/jxudzbj1wi2bzjyv6lka.svg'],
   },
   {
@@ -38,15 +38,15 @@ const awards = [
     icon: '',
     photos: ['/images/awards/ukf-ideathon.jpeg'],
   },
-   {
+  {
     title: "3rd Place — Samrambhak Mithra Program",
     organizer: "State Level Entrepreneurship",
     year: "2024",
     description: "Recognised at a state-level entrepreneurship programme as a promising founder with a market-ready vision.",
     highlight: "State-level recognition",
     color: 'pink',
-    icon: '',
-    photos: ['https://res.cloudinary.com/dqrpav05c/image/upload/v1775998975/jtjn0yqponxrwn2fufvj.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775998977/jxynrnnzppv9ttxbddai.svg', 'https://res.cloudinary.com/dqrpav05c/image/upload/v1775998973/cr71mzhafims822px3if.svg'],
+    Icon: '',
+    photos: ['https://res.cloudinary.com/dqrpav05c/image/upload/v1776014169/xjb5yqwgs9weh3qdljvz.svg','https://res.cloudinary.com/dqrpav05c/image/upload/v1775998975/jtjn0yqponxrwn2fufvj.svg'],
   },
 ]
 
