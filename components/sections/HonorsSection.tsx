@@ -36,7 +36,7 @@ const awards = [
     highlight: "Engineering ideathon",
     color: 'cyan',
     icon: '',
-    photos: ['/images/awards/ukf-ideathon.jpeg'],
+    photos: ['https://res.cloudinary.com/dzk6jd4of/image/upload/q_auto/f_auto/v1776177197/ukf-ideathon_kstbhn.jpg'],
   },
   {
     title: "3rd Place — Samrambhak Mithra Program",
