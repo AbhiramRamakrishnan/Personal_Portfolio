@@ -8,31 +8,31 @@ import { cn } from '@/lib/utils'
 const clients = [
   {
     name: "Agni Robotics",
-    logo: "/images/clients/client-1.png",
+    logo: "https://res.cloudinary.com/dqrpav05c/image/upload/v1760461206/wplsk39u0rx2ikioahyk.svg",
     type: "Technical Leadership · CTO",
     website: "https://agnirobotics.com",
   },
   {
     name: "Specularis",
-    logo: "/images/clients/specularis_logo.png",
+    logo: "https://res.cloudinary.com/dzk6jd4of/image/upload/q_auto/f_auto/v1776176814/specularis_logo2_uvpbcz.png",
     type: "Principal Architect · Founder",
     website: "#",
   },
   {
     name: "Fynora Entertainment",
-    logo: "/images/clients/client-1.png",
+    logo: "https://res.cloudinary.com/dzk6jd4of/image/upload/q_auto/f_auto/v1776176814/fynora_logo2_teoguv.png",
     type: "Full-Stack Architecture",
     website: "https://fynoraentertainments.com",
   },
   {
     name: "Zerion Atelier",
-    logo: "/images/clients/client-1.png",
+    logo: "https://res.cloudinary.com/dzk6jd4of/image/upload/q_auto/f_auto/v1776176815/zerion_logo2_rdtv2n.png",
     type: "Digital Strategy & Dev",
     website: "https://zerionatelier.com",
   },
   {
     name: "Uforia",
-    logo: "/images/clients/client-1.png",
+    logo: "https://res.cloudinary.com/dzk6jd4of/image/upload/q_auto/f_auto/v1776176815/uforia_logo2_av0npv.png",
     type: "Web Infrastructure",
     website: "https://uforiaofficial.com",
   },
@@ -272,7 +272,7 @@ const ClientCard = memo(function ClientCard({ client }: { client: typeof clients
             alt={`${client.name} logo`}
             width={140}
             height={56}
-            className="object-contain max-h-full opacity-40 group-hover:opacity-80 transition-opacity duration-300"
+            className="object-contain max-h-full opacity-100 group-hover:opacity-80 transition-opacity duration-300"
             onError={() => setImgError(true)}
           />
         ) : (
