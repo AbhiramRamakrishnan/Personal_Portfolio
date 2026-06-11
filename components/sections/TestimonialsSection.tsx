@@ -15,25 +15,25 @@ const testimonials = [
     name: "Mithun M S Kurup",
     role: "Director, Fynora Entertainment",
     quote: "Abhiram handled everything from the Fynora brand site to the Uforia event platform. He understands high-pressure deadlines and builds systems that stay stable under heavy traffic.",
-    rating: 5,
+    rating: 4,
   },
   {
     name: "Mahajan M S Kurup",
     role: "Director, Zerion Atelier",
     quote: "A rare mix of technical depth and design sense. He took the Zerion vision and turned it into a high-performance digital presence that truly represents our artist collective.",
-    rating: 5,
+    rating: 4.5,
   },
   {
     name: "Abu Sinan",
     role: "Mentee · Mobile Developer",
     quote: "Abhiram didn't just teach me how to code; he taught me the full lifecycle of a product—from choosing the right stack to hosting and maintenance. He simplifies the complex.",
-    rating: 5,
+    rating: 4,
   },
   {
     name: "Arjun B",
     role: "Python Developer, Agni Robotics",
     quote: "Working alongside Abhiram on the backend is a masterclass in logic. He has a knack for finding the most efficient way to solve a hardware-software integration problem.",
-    rating: 5,
+    rating: 4,
   },
   {
     name: "Abhijith R S",
@@ -48,9 +48,9 @@ const testimonials = [
     rating: 5,
   },
   {
-    name: "Abel K Sabu",
-    role: "Flutter Developer, Agni Robotics",
-    quote: "Seamless integration is hard, but Abhiram makes it look easy. His architectural oversight ensures that our mobile frontends and robotic backends speak the same language.",
+    name: "Abhijith S D",
+    role: "Researcher, Agni Robotics",
+    quote: "Abhiram is a highly skilled technology enthusiast and innovator who has overcome significant challenges in life. He stands as a remarkable example of resilience, determination, and perseverance. Throughout his journey, he has contributed meaningfully to website development and emerging startups, generously investing his expertise and time. Known for his exceptional conceptual clarity, Abhiram possesses a rare ability to analyze complex technical problems and provide precise, practical, and insightful solutions with impressive speed and accuracy.",
     rating: 5,
   },
 ]
