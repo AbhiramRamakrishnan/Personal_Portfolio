@@ -43,7 +43,7 @@ const testimonials = [
   },
   {
     name: "Ananthjith B",
-    role: "Designer & Dev Student",
+    role: "Designer & Music Producer",
     quote: "Abhiram's advice on deep tech and the intersection of UI/UX is what changed my perspective on development. He builds with the user and the architecture in mind simultaneously.",
     rating: 5,
   },
