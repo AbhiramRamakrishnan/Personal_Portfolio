@@ -44,7 +44,7 @@ const testimonials = [
   {
     name: "Ananthjith B",
     role: "Designer & Music Producer",
-    quote: "Abhiram's advice on deep tech and the intersection of UI/UX is what changed my perspective on development. He builds with the user and the architecture in mind simultaneously.",
+    quote: "As a filmmaker and creator, I think a lot about narrative and scale, but talking to Abhiram opened my eyes to a different kind of impact. His focus on nation-critical technology, deep tech research, and pushing the boundaries of what Indian tech can achieve is genuinely inspiring. He bridges complex architecture with a massive, forward-thinking vision.",
     rating: 5,
   },
   {
